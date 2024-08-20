@@ -198,3 +198,8 @@
 		transform: translateX(calc(-50% - .75rem));
 	}
 }
+
+.list-ico a{
+	text-decoration: none;
+	color: black;
+}
